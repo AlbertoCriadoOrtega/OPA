@@ -5,7 +5,7 @@ public class Main {
 
 
     public void integers(){
-        for (int i = 0; i < 164255; i++) {
+        for (int i = 0; i < 1640255; i++) {
             System.out.println(i);
         }
     }
